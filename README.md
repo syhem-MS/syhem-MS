@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Siham-MS
-- 👀 I’m interested in data science 
+- 👀 welcome to my home page where i like to share some of my works in data analysis and data science,
+  yep i'am a big fan of big data and new technologies if you are too hope you will find what you need
+  have a nice day beautiful human.
 
 <!---
 syhem-MS/syhem-MS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
