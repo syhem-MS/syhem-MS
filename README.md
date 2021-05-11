@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syhem-MS
+- 👋 Hi, I’m @Siham-MS
 - 👀 I’m interested in data science 
 
 <!---
