@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siham-MS
-- 👀 welcome to my home page where i like to share some of my works in data analysis and data science.
+- 👀 Bienvenu(e) sur ma page d'accueil où j'aime partager certains de mes travaux en analyse de données et science des données
 
 <!---
 syhem-MS/syhem-MS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
