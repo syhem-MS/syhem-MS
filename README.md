@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siham-MS
+- 👋 Hi, I'm Siham
 - 👀 Bienvenu(e) sur ma page d'accueil où j'aime partager certains de mes travaux en analyse de données et science des données
 
 <!---
